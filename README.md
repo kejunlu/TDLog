@@ -19,7 +19,7 @@ TDLog.e("test elog");<br><br>
 08-25 23:18:41.907 3759-3759/com.td.tdlog E/MainActivity.java: [ OnClick:25 ] test elog<br>
 
 ## License
-Copyright 2015 A.Prayzner
+Copyright 2016 LK
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
