@@ -11,7 +11,7 @@ TDLog.v("test vlog");<br>
 TDLog.d("test dlog");<br> 
 TDLog.i("test ilog");<br> 
 TDLog.w("test wlog");<br> 
-TDLog.e("test elog");<br> 
+TDLog.e("test elog");<br><br> 
 08-25 23:18:41.907 3759-3759/com.td.tdlog V/MainActivity.java: [ OnClick:21 ] test vlog<br> 
 08-25 23:18:41.907 3759-3759/com.td.tdlog D/MainActivity.java: [ OnClick:22 ] test dlog<br> 
 08-25 23:18:41.907 3759-3759/com.td.tdlog I/MainActivity.java: [ OnClick:23 ] test ilog<br> 
